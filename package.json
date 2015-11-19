@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/londrinahub/sms-api.git"
+    "url": "git+ssh://git@github.com/LondrinaHUB/sms-api.git"
   },
   "keywords": [
     "sms"
@@ -16,9 +16,9 @@
   "author": "rennan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/londrinahub/sms-api/issues"
+    "url": "https://github.com/LondrinaHUB/sms-api/issues"
   },
-  "homepage": "https://github.com/londrinahub/sms-api#readme",
+  "homepage": "https://github.com/LondrinaHUB/sms-api#readme",
   "devDependencies": {
     "request": "^2.67.0",
     "sinch-auth": "0.0.1"
