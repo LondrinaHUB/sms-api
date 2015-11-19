@@ -1,0 +1,26 @@
+{
+  "name": "sms-api",
+  "version": "1.0.0",
+  "description": "LondrinaHUB SMS API messaging using Sinch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/londrinahub/sms-api.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "rennan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/londrinahub/sms-api/issues"
+  },
+  "homepage": "https://github.com/londrinahub/sms-api#readme",
+  "devDependencies": {
+    "request": "^2.67.0",
+    "sinch-auth": "0.0.1"
+  }
+}
